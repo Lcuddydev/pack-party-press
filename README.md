@@ -1,4 +1,4 @@
-# Pack Party press kit
+# Pack Party
 
-The press page for Pack Party, served at https://playpackparty.com/ with GitHub Pages.
-The big downloads (zips) are attached to the latest release.
+The one-page site for Pack Party at https://playpackparty.com/ (GitHub Pages): a Steam wishlist link,
+the press kit download and a contact email. The press kit zips are attached to the latest release.
